@@ -1,0 +1,15 @@
+Crie uma API básica com autenticação e autorização das duas formas
+ - Manual usando filtro customizado
+ - Utilizando Aspnet.Authorization
+
+Endpoints
+ - Administrador (Nome, email, login, senha, regra)
+ - Veiculos (Nome, Descricao, Marca, Modelo, Ano)
+
+Permissionamento
+ - Editor só pode cadastrar e listar
+ - Adm pode fazer o CRUD completo
+
+
+
+ 
